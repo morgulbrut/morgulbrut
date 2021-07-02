@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there
+
+Quite some of my repos are just POCs or ideas I tried out.
+
+Stuff which made it further will be listed here in the next weeks
+
+
 
 <!--
 **morgulbrut/morgulbrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
